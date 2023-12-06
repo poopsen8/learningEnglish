@@ -1,0 +1,15 @@
+both - оба
+start - старт
+run - бег, бежать
+long - длинный
+right - правый
+set - набор
+help - помогать
+every - каждый
+home - дом
+month - месяц
+side - сторона
+night - ночь
+important - важный
+eye - глаз
+head - возглавлять
